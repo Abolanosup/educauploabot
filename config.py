@@ -1,16 +1,11 @@
 import os
 import ProxyCloud
 # Bot
-BOT_TOKEN = '5506081827:AAGPAXNcMsB1ZD8fp5Sc6GQB90X2y7xNRlM'
-TG_API_ID = 13233271
-TG_API_HASH = 'e3ce8145aa657c2a4cc5cf0f7183e476'
-TG_ADMIN = 'Hiyabo'
-TG_USER = 'EL_Wizard'
-TG_USER1 = 'Stvz02'
-TG_USER2 = 'valdes_95'  
-TG_USER3 = 'gyi'
-
-
+BOT_TOKEN = '5954082825:AAE6EFqMAmk3SJTfdKcTMu7nYsnEHvlZ8dY'
+TG_API_ID = '9902519'
+TG_API_HASH = '9d8097d05bbc90a6ed2a7a81abcd4e8a'
+TG_ADMIN = 'Abolanos3'
+TG_USER = 'Abolanos3'
 # Database
 DB_LOCAL = False
 DB_HOST = 'sql.freedb.tech'
